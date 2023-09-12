@@ -3,10 +3,10 @@ An automation tool that converts lecture recordings into scripts and summaries. 
 
 For example:
 - Original: "3번은 닉몬이야. 그래서 폐렴이라고 하는 거는"  
-  Processed: "The third is Pneumonia. So, it's called Pneumonia."
+  Processed: "3위는 Pneumonia입니다. 그래서 Pneumonia이"
 
 - Original: "이 암이라는 것은 mmr살프로리퍼레이션 서브와이블 때문에 생기는 질환이에요."  
-  Processed: "Cancer is primarily a disease caused by MMR (Mismatch Repair)."
+  Processed: "Cancer는 주로 MMR (Mismatch Repair) 때문에 발생하는 disease입니다."
 
 The summaries generated are succinct and accurate, and even include a content review quiz.
 
