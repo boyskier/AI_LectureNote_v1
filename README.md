@@ -1,4 +1,4 @@
-# AI_LectureNote
+# AI_LectureNote_v1
 An automation tool that converts lecture recordings into scripts and summaries. Unlike similar services like Naver Clova Note and Daglo, our software offers unique features tailored for medical education. It translates all medical terminology into English and eliminates filler words and stutters.
 
 For example:
