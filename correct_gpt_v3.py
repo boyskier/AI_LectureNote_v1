@@ -92,7 +92,7 @@ if __name__ == '__main__':
     # to_paragraphed()
     # print('to_corrected starting...')
     # to_corrected(original_file_path='intermediate/해부_1_1_1_paragraphed.txt', output_file_path='intermediate/해부_1_1_1_corrected.txt')
-    # print('fuck')
+   
     # to_englished(original_file_path='intermediate/해부_1_1_1_corrected.txt', output_file_path='intermediate/해부_1_1_1_englished.txt')
     # to_summarised(original_file_path="intermediate/해부_1_1_1_englished.txt", output_file_path='해부_1_1_1_summarised.txt')
 
